@@ -6,3 +6,9 @@
 <p align="center">
   <img src="https://cdn-images-1.medium.com/max/1200/1*cpJmJWsBb0gYLmXqEMns9g.jpeg">
 </p>
+
+## Day 2 | Simple Linear Regression
+[Click here to see](https://github.com/zyncoder/100.DAY.ML.CHALLENGE/blob/main/Code/day2.md)
+<p align="center">
+  <img src="https://365datascience.com/wp-content/uploads/2017/08/The-linear-regression-model.png">
+</p>
