@@ -1,4 +1,4 @@
-# Multiple Linear Regression | Day 2
+# Multiple Linear Regression | Day 3
 
 <p align="center">
   <img src="https://aegis4048.github.io/images/featured_images/multiple_linear_regression_and_visualization.png">
